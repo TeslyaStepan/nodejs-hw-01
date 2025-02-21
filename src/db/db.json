@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "id": "d586322e-502e-46ab-8e75-012406d23acd",
+    "name": "Dr. Archie Zulauf",
+    "phone": "(535) 887-3293 x2914",
+    "email": "Kavon_Marquardt99@gmail.com",
+    "job": "Direct Directives Agent"
+  },
+  {
+    "id": "475f21a4-db62-42ab-826a-929c4963b5f5",
+    "name": "Melissa Steuber",
+    "phone": "569.454.3931",
+    "email": "Wilford_Lowe28@gmail.com",
+    "job": "Global Tactics Assistant"
+  },
+  {
+    "id": "802cd30d-376d-4ff0-b61a-b4991f4192f4",
+    "name": "Donna Lindgren",
+    "phone": "558.873.3757",
+    "email": "Brandy.Konopelski@hotmail.com",
+    "job": "Human Intranet Director"
+  },
+  {
+    "id": "5a22d53d-8d5a-4b34-bb9b-6c7338c8adec",
+    "name": "Megan Kuphal-Grimes",
+    "phone": "448.503.1438",
+    "email": "Raphael.Harvey68@yahoo.com",
+    "job": "Chief Intranet Producer"
+  },
+  {
+    "id": "06578b7e-fb84-4d00-b447-9d183bc39321",
+    "name": "Alicia Spencer",
+    "phone": "(927) 672-0387 x6588",
+    "email": "Selena_Corwin20@hotmail.com",
+    "job": "Dynamic Applications Architect"
+  },
+  {
+    "id": "adeafddc-40d8-4fb4-87eb-a044beeca1b1",
+    "name": "Blake Monahan V",
+    "phone": "981.532.3471 x032",
+    "email": "Kaitlin21@gmail.com",
+    "job": "Lead Optimization Strategist"
+  },
+  {
+    "id": "5aac4149-d08a-4b52-a97a-488070e543ca",
+    "name": "Tara Mayer",
+    "phone": "1-506-438-2902 x4949",
+    "email": "Leopoldo91@hotmail.com",
+    "job": "Senior Usability Developer"
+  },
+  {
+    "id": "1e0b0ae2-8621-48e6-8de0-1def780267b3",
+    "name": "Cheryl Beier",
+    "phone": "1-651-472-6323 x628",
+    "email": "Ofelia46@yahoo.com",
+    "job": "Direct Division Producer"
+  }
+]
